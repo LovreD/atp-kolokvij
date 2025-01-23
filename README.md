@@ -7,16 +7,28 @@
 import subprocess
 import time
 import psutil
+
+
+
 ###Linkovi
 [Izvor slike](https://images.pexels.com/photos/274422/pexels-photo-274422.jpeg?auto=compress&cs=tinysrgb&w=600)
 [Izvor teksta](https://hr.wikipedia.org/wiki/Nogomet)
+
+
+
 1. Četvrtfinale
 2. Polufinale
 3. Finale
 
+
+
+
 - Nogomet je najigraniji sport
 - Teško ga je igrati
 - Ali je puno zabavan
+
+
+
 
 | Nogomet     | ATP Kolokvij |
 |-------------|--------------|
